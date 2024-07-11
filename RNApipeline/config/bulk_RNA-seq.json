@@ -1,0 +1,12 @@
+{
+	"fastp_path":"/root/Public/software/fastp-0.23.2/fastp",
+	"star_path":"~/miniconda3/envs/star/bin/STAR",
+	"bedtools_path":"/root/Public/software/bedtools-2.30.0/bedtools",
+	"samtools_path":"/root/Public/software/samtools-1.16/bin/samtools",
+	"wd":"/home/zkyang/project/240629-bioinfor_course",
+	"SE/PE":"PE",
+	"genome_path":"/home/zkyang/my_data/star/mouse_GRCm39",
+	"gtf_path":"/home/zkyang/project/240629-bioinfor_course/mk_ref_genome/GRCm39.gtf",
+	"normalization_method":"RPM"
+
+}
